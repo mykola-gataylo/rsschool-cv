@@ -43,3 +43,12 @@ Being an lawyer in past.
 - Self-Motivation
 - Responsibility
 - Flexibility
+
+### Languages:
+
+---
+
+- Russian - C2
+- Ukrainian- C2
+- English - A2
+- Spanish - A2
