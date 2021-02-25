@@ -52,3 +52,19 @@ Being an lawyer in past.
 - Ukrainian- C2
 - English - A2
 - Spanish - A2
+
+### Work experience:
+
+---
+
+##### Front-end developer
+
+- Technology company "Nubio.Systems"
+- January 2021 - up to present
+- Spain
+
+##### Front-end developer
+
+- IT school "Beetroot Academy"
+- August 2020 - January 2021
+- Ukraine
