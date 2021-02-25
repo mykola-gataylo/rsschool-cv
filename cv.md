@@ -33,3 +33,13 @@ Being an lawyer in past.
 - Gulp
 - Adobe Photoshop
 - Figma
+
+### Soft-skills:
+
+---
+
+- Communication
+- Teamwork
+- Self-Motivation
+- Responsibility
+- Flexibility
