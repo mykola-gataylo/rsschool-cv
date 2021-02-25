@@ -68,3 +68,12 @@ Being an lawyer in past.
 - IT school "Beetroot Academy"
 - August 2020 - January 2021
 - Ukraine
+
+### Portfolio:
+
+---
+
+- [Calculator](https://minicalculadora.netlify.app "Calculator")
+- [Bhromaon-travel](https://bhromaon-travel.netlify.app "Bhromaon-travel")
+- [Bootstrap-project](https://bootstrap-style-project.netlify.app "Bootstrap-project")
+- [Todo-list](https://github.com/mykola-gataylo/HW_JS_41_Angularp "Todo-list")
