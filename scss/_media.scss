@@ -1,0 +1,154 @@
+@media (min-width: 320px) and (max-width: 576px) {
+
+  .container-custom {
+    padding: 0 !important;
+
+    .sidebar {
+      width: 50% !important;
+
+      .icon {
+        width: 32px;
+        height: 32px;
+      }
+
+      .contacts div {
+        .contacts__list {
+          padding-left: 0;
+          display: flex;
+          justify-content: center;
+
+          .contacts__link {
+            display: none;
+          }
+        }
+      }
+
+      .tech-skills div {
+        .tech-skills__list {
+          padding-left: 0;
+        }
+      }
+
+      .soft-skills div {
+        .soft-skills__list {
+          padding-left: 0;
+        }
+      }
+
+      .languages div {
+        .languages__list {
+          padding-left: 0;
+        }
+      }
+    }
+
+    .main {
+
+      .description {
+        .description__description {
+          text-indent: 1rem !important;
+          padding: 5px 10px !important;
+        }
+      }
+
+      .experience {
+        .experience__item {
+          padding: 5px 10px !important;
+        }
+      }
+
+      .education {
+        .education__item {
+          padding: 5px 10px !important;
+        }
+      }
+
+      .projects {
+        .projects__item {
+          padding: 5px 10px !important;
+        }
+      }
+    }
+  }
+
+}
+
+@media (min-width: 576.98px) and (max-width: 768px) {
+
+  .container-custom {
+
+    .sidebar {
+      width: 50% !important;
+
+      .icon {
+        width: 32px;
+        height: 32px;
+      }
+
+      .contacts div {
+        .contacts__list {
+          padding-left: 0;
+        }
+      }
+
+      .tech-skills div {
+        .tech-skills__list {
+          padding-left: 0;
+        }
+      }
+
+      .soft-skills div {
+        .soft-skills__list {
+          padding-left: 0;
+        }
+      }
+
+      .languages div {
+        .languages__list {
+          padding-left: 0;
+        }
+      }
+    }
+
+    .main {
+
+      .description {
+        .description__description {
+          padding: 5px 10px !important;
+        }
+      }
+
+      .experience {
+        .experience__item {
+          padding: 5px 10px !important;
+        }
+      }
+
+      .education {
+        .education__item {
+          padding: 5px 10px !important;
+        }
+      }
+
+      .projects {
+        .projects__item {
+          padding: 5px 10px !important;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 768.98px) and (max-width: 992px) {
+
+  .container-custom {
+
+    .sidebar {
+      width: 45% !important;
+    }
+  }
+}
+
+@media (min-width: 992.98px) and (max-width: 1367px) {}
+
+@media (min-width: 1367.98px) and (max-width: 2652.98px) {}
