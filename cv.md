@@ -4,7 +4,7 @@
 
 ### Front-End Developer
 
-I am a self-organized entry-level Angular front-end developer with good HTML/CSS coding
+I am a self-organized entry-level front-end developer with good HTML/CSS coding
 abilities is looking to became a part of team or independent developer.
 I am always open for learning new technology stacks and techniques.
 Being an lawyer in past.
