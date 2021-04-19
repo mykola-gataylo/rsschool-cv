@@ -25,8 +25,6 @@ Being an lawyer in past.
 
 - HTML5/CSS3
 - JavaScript
-- TypeScript
-- Angular
 - SCSS
 - Bootstrap
 - Git
