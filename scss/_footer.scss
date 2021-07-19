@@ -1,0 +1,32 @@
+.footer {
+  width: 100%;
+  height: 110px;
+  padding: 40px 0;
+  display: flex;
+  justify-content: space-between;
+
+  .rs-logo-container {
+    height: 30px;
+    display: flex;
+    align-items: center;
+
+    .rs-logo-icon {
+      height: 30px;
+    }
+  }
+
+  .footer__text-container {
+    height: 30px;
+    color: #212529;
+  }
+
+  .github-logo-container {
+    height: 30px;
+    display: flex;
+    align-items: center;
+
+    .github-logo-icon {
+      height: 30px;
+    }
+  }
+}

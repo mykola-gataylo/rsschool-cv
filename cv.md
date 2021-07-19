@@ -2,7 +2,7 @@
 
 # Mykola Gataylo
 
-### Front-End Developer
+### Junior Software Engineer JavaScript/Front-end
 
 I am a self-organized entry-level front-end developer with good HTML/CSS coding
 abilities is looking to became a part of team or independent developer.
@@ -25,9 +25,11 @@ Being an lawyer in past.
 
 - HTML5/CSS3
 - JavaScript
+- TypeScript
 - SCSS
 - Bootstrap
 - Git
+- WebPack
 - Gulp
 - Adobe Photoshop
 - Figma
@@ -57,8 +59,15 @@ Being an lawyer in past.
 
 ##### Front-end developer
 
+- RS School
+- Course «JavaScript/Front-end»
+- March 2021 - July 2021
+- Online
+
+##### Front-end developer
+
 - Technology company "Nubio.Systems"
-- January 2021 - up to present
+- January 2021 - March 2021
 - Spain
 
 ##### Front-end developer
@@ -71,6 +80,11 @@ Being an lawyer in past.
 
 ---
 
+- [English for kids](https://mykola-gataylo-english-for-kids.netlify.app "English for kids")
+- [Online Zoo](https://rolling-scopes-school.github.io/mykola-gataylo-JSFE2021Q1/online-zoo/index.html "Online Zoo")
+- [Match Match Game](https://rolling-scopes-school.github.io/mykola-gataylo-JSFE2021Q1/match-match-game/match-match-game/ "Match Match Game")
+- [Photo-filter](https://rolling-scopes-school.github.io/mykola-gataylo-JSFE2021Q1/photo-filter/ "Photo-filter")
+- [Presentation 'SVG'](https://mykola-gataylo-presentation.netlify.app "Presentation 'SVG'")
 - [Calculator](https://minicalculadora.netlify.app "Calculator")
 - [Bhromaon-travel](https://bhromaon-travel.netlify.app "Bhromaon-travel")
 - [Bootstrap-project](https://bootstrap-style-project.netlify.app "Bootstrap-project")
