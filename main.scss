@@ -1,0 +1,239 @@
+@import "./scss/base";
+@import "./scss/variables";
+@import "./scss/mixins";
+@import "./scss/media";
+@import "./scss/footer";
+
+// main-styles
+
+.container-custom {
+  max-width: 1920px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Montserrat", sans-serif;
+
+  .icon {
+    fill: white;
+    width: 56px;
+    height: 56px;
+  }
+
+  .main-container {
+    display: flex;
+
+    .sidebar {
+      width: 35%;
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+      background: $bgSidebar;
+
+      .photo {
+        width: 100%;
+
+        .photo__element {
+          width: 100%;
+        }
+      }
+
+      .contacts {
+        .contacts__title {
+          @include sidebar-title;
+          margin-top: 10px;
+        }
+
+        .contacts__list {
+          padding-left: 1rem;
+
+          .contacts__link {
+            font-size: $fontSizeSidebarItems;
+            line-height: $lineHeightSidebarItem;
+            color: $colorItem;
+          }
+
+          .contacts__link:hover {
+            color: $colorSidebar;
+            cursor: pointer;
+          }
+
+          .icon:hover {
+            fill: $colorSidebar;
+            cursor: pointer;
+          }
+        }
+      }
+
+      .tech-skills {
+        .tech-skills__title {
+          @include sidebar-title;
+        }
+
+        .tech-skills__list {
+          padding-left: 1rem;
+
+          .tech-skills__item {
+            color: $colorItem;
+            display: flex;
+            align-items: center;
+
+            span {
+              @include sidebar-skills-items;
+            }
+          }
+        }
+      }
+
+      .soft-skills {
+        .soft-skills__title {
+          @include sidebar-title;
+        }
+
+        .soft-skills__list {
+          padding-left: 1rem;
+
+          .soft-skills__item {
+            display: flex;
+            color: $colorItem;
+
+            span {
+              @include sidebar-skills-items;
+            }
+          }
+        }
+      }
+
+      .languages {
+        .languages__title {
+          @include sidebar-title;
+        }
+
+        .languages__list {
+          padding-left: 1rem;
+
+          .languages__item {
+            display: flex;
+            color: $colorItem;
+
+            span {
+              @include sidebar-skills-items;
+            }
+          }
+        }
+      }
+    }
+
+    .main {
+      width: 65%;
+      padding: 10px;
+
+      .name {
+        .name__position {
+          color: $colorSidebar;
+          font-size: $fontSizeMainPosition;
+          line-height: $lineHeightMainPosition;
+          text-align: center;
+          margin: 0;
+        }
+
+        .name__title {
+          color: $colorSidebar;
+          font-size: $fontSizeMainName;
+          line-height: $lineHeightMainName;
+          text-align: center;
+          font-weight: 700;
+        }
+      }
+
+      .description {
+        .description__description {
+          text-indent: 2em;
+          text-align: justify;
+          padding: 15px 25px;
+        }
+      }
+
+      .experience {
+        .experience__title {
+          @include sidebar-title;
+        }
+
+        .experience__item {
+          padding: 15px 25px;
+
+          .experience__position {
+            @include main-position;
+          }
+
+          .experience__company {
+            font-size: $fontSizeExperienceCompany;
+            line-height: $lineHeightExperienceCompany;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+          }
+
+          .experience__period {
+            font-size: $fontSizeMainPeriod;
+            line-height: $lineHeightMainPeriod;
+
+            .experience__period--linea {
+              color: $colorSidebar;
+              font-weight: 900;
+            }
+          }
+        }
+      }
+
+      .education {
+        .education__title {
+          @include sidebar-title;
+        }
+
+        .education__item {
+          padding: 15px 25px;
+
+          .education__position {
+            @include main-position;
+          }
+
+          .education__company {
+            font-size: $fontSizeExperienceCompany;
+            line-height: $lineHeightExperienceCompany;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+          }
+
+          .education__period {
+            font-size: $fontSizeMainPeriod;
+            line-height: $lineHeightMainPeriod;
+
+            .education__period--linea {
+              color: $colorSidebar;
+              font-weight: 900;
+            }
+          }
+        }
+      }
+
+      .projects {
+        .projects__title {
+          @include sidebar-title;
+        }
+
+        .projects__item {
+          padding: 15px 25px;
+
+          .projects__link {
+            display: block;
+            @include main-position;
+            margin-bottom: 0.5rem;
+          }
+
+          .projects__link:hover {
+            color: $colorSidebar;
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+}
