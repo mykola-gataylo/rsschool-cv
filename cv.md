@@ -105,3 +105,17 @@ I am always ready to learn new skills as well as polish existing technical and s
 #### 👨‍🎓 [Certificate](https://drive.google.com/file/d/17YyFWKhTVx5tzpAEHbPHO5tTxnmD0-TA/view?usp=sharing)
 
 ##### September 2002 - June 2006
+
+## Portfolio:
+
+---
+
+- [Regiodienst. CV Booster.](https://regiodienst.netlify.app 'Regiodienst. CV Booster.')
+- [English for kids](https://mykola-gataylo-english-for-kids.netlify.app 'English for kids')
+- [Online Zoo](https://rolling-scopes-school.github.io/mykola-gataylo-JSFE2021Q1/online-zoo/index.html 'Online Zoo')
+- [Match Match Game](https://rolling-scopes-school.github.io/mykola-gataylo-JSFE2021Q1/match-match-game/match-match-game/ 'Match Match Game')
+- [Photo-filter](https://rolling-scopes-school.github.io/mykola-gataylo-JSFE2021Q1/photo-filter/ 'Photo-filter')
+- [Presentation 'SVG'](https://mykola-gataylo-presentation.netlify.app "Presentation 'SVG'")
+- [Calculator](https://minicalculadora.netlify.app 'Calculator')
+- [Bhromaon-travel](https://bhromaon-travel.netlify.app 'Bhromaon-travel')
+- [Bootstrap-project](https://bootstrap-style-project.netlify.app 'Bootstrap-project')
