@@ -75,3 +75,33 @@ I am always ready to learn new skills as well as polish existing technical and s
 - IT school "Beetroot Academy"
 - August 2020 - January 2021
 - Ukraine
+
+## Education:
+
+---
+
+#### Junior Front-end developer
+
+### RS School JavaScript / Front-end 2021Q1
+
+#### 👨‍🎓 [Certificate](https://drive.google.com/file/d/1voDwZJwF2uVJR6bz0HPddm-RwL8PzVMj/view?usp=sharing)
+
+##### April 2021 - July 2021
+
+#### Junior Front-end developer
+
+### IT school "Beetroot Academy"
+
+#### 👨‍🎓 [Certificate](https://drive.google.com/file/d/17YyFWKhTVx5tzpAEHbPHO5tTxnmD0-TA/view?usp=sharing)
+
+##### August 2020 - January 2021
+
+#### Lawyer
+
+### Faculty of Economics and Law
+
+### I. I. Mechnikov Odessa National University
+
+#### 👨‍🎓 [Certificate](https://drive.google.com/file/d/17YyFWKhTVx5tzpAEHbPHO5tTxnmD0-TA/view?usp=sharing)
+
+##### September 2002 - June 2006
