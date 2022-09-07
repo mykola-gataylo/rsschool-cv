@@ -18,3 +18,18 @@ I am always ready to learn new skills as well as polish existing technical and s
 🌍: Málaga, Spain
 
 📋: [CV](https://cv-mykola-gataylo.netlify.app 'cv mykola gataylo')
+
+## Tech-skills:
+
+---
+
+- HTML5/CSS3
+- JavaScript
+- TypeScript
+- React
+- Git
+- SCSS
+- Bootstrap
+- WebPack
+- Adobe Photoshop
+- Figma
