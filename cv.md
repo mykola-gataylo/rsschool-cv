@@ -52,3 +52,26 @@ I am always ready to learn new skills as well as polish existing technical and s
 - Ukrainian- C2
 - English - A2
 - Spanish - A2
+
+## Work experience:
+
+---
+
+#### Front-end developer
+
+- RS School
+- Course «JavaScript/Front-end»
+- April 2021 - July 2021
+- Online
+
+#### Front-end developer
+
+- Technology company "Nubio.Systems"
+- January 2021 - March 2021
+- Spain
+
+#### Front-end developer
+
+- IT school "Beetroot Academy"
+- August 2020 - January 2021
+- Ukraine
