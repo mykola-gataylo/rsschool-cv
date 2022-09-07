@@ -43,3 +43,12 @@ I am always ready to learn new skills as well as polish existing technical and s
 - Self-Motivation
 - Responsibility
 - Flexibility
+
+## Languages:
+
+---
+
+- Russian - C2
+- Ukrainian- C2
+- English - A2
+- Spanish - A2
