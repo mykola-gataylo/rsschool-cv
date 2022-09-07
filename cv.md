@@ -33,3 +33,13 @@ I am always ready to learn new skills as well as polish existing technical and s
 - WebPack
 - Adobe Photoshop
 - Figma
+
+## Soft-skills:
+
+---
+
+- Communication
+- Teamwork
+- Self-Motivation
+- Responsibility
+- Flexibility
